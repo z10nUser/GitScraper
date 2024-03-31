@@ -1,4 +1,3 @@
-This tool scrapes github for repos containing a certain keyword.
+This tool scrapes github for repos which contain a certain keyword.
+It runs through local host but can be exposed using Ngrok or other tunnling services.
 
-You can use ngrok or vortex.io to publicly host the tool once started on LOCAL IP. Or just use your local IP 🤷‍♂️ 
-Server runs on port 5000
